@@ -1697,19 +1697,3 @@ Crack your next React Native interview with confidence!
 This guide is packed with **scenario-based questions, detailed explanations, and hands-on examples** to help you stand out and succeed.
 **👉 Explore the book:**
 [https://medium.com/@anandgaur2207/react-native-interview-crack-your-next-interview-with-confidence-0d7255a20fe1](https://medium.com/@anandgaur2207/react-native-interview-crack-your-next-interview-with-confidence-0d7255a20fe1)
-
-### Need 1:1 Career Guidance or Mentorship?
-
-If you're looking for personalized guidance, **interview preparation help**, or just want to talk about your **career path in mobile development** — you can book a 1:1 session with me on **Topmate**.
-
-🔗 [Book a session here](https://topmate.io/anand_gaur)
-
-I've helped many developers grow in their careers, switch jobs, and gain clarity with focused mentorship. Looking forward to helping you too!
-
-> Found this helpful? Don't forgot to clap 👏 and follow me for more such useful articles about Android development and Kotlin or buy us a coffee [here](https://buymeacoffee.com/anandgaur) ☕
-
-If you need any help related to Mobile app development. I'm always happy to help you.
-
-Follow me on:
-
-[LinkedIn](https://www.linkedin.com/in/anandgaur22/), [Github](https://github.com/anandgaur22), [Instagram](https://www.instagram.com/tech.anandgaur) , [YouTube](https://www.youtube.com/@technicalanandgaur) & [WhatsApp](https://wa.me/9807407363)
